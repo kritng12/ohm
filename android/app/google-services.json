@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "889576798136",
+    "firebase_url": "https://onlinefirebase-3cb48-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-3cb48",
+    "storage_bucket": "onlinefirebase-3cb48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889576798136:android:7a0b898a63e7c58da7c14d",
+        "android_client_info": {
+          "package_name": "com.example.onlineapp_siwat_secb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA82gSCZzO-W9agmwOV4Fy6g3nvKqBMNPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
